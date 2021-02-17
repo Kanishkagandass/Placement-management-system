@@ -1,0 +1,12 @@
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\bin\Debug\SemProjectLoginForm.exe.config
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\bin\Debug\SemProjectLoginForm.exe
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\bin\Debug\SemProjectLoginForm.pdb
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProject.csprojAssemblyReference.cache
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProjectLoginForm.Choice_operation.resources
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProjectLoginForm.Form1.resources
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProjectLoginForm.Properties.Resources.resources
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProject.csproj.GenerateResource.cache
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProject.csproj.CoreCompileInputs.cache
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProjectLoginForm.exe
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProjectLoginForm.pdb
+C:\Users\AISH GUPTA\source\repos\SemProjectLoginForm\SemProjectLoginForm\obj\Debug\SemProjectLoginForm.AddStudentToDatabase.resources
